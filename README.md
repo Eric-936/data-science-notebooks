@@ -13,7 +13,7 @@ Builds a Convolutional Neural Network (CNN) from scratch for American Sign Langu
 
 ---
 
-### [EDA-practice.ipynb]
+### [EDA-practice.ipynb](./EDA-practice.ipynb)
 **Exploratory Data Analysis, Python, pandas**
 
 A hands-on notebook for performing typical exploratory data analysis (EDA) tasks using pandas, matplotlib, and seaborn to visualize and summarize datasets.
@@ -109,11 +109,3 @@ Demonstrates building a statistical computation agent capable of reading CSVs, e
 - All notebooks are in Jupyter format (`.ipynb`).
 - Most experiments and projects use **Python 3** and popular data science libraries.
 - See individual notebooks for detailed documentation, code, and results.
-
-## Getting Started
-
-Clone the repo and open any notebook directly in Jupyter Notebook or JupyterLab. Some notebooks require external datasets (see notes in each notebook for instructions).
-
----
-
-Enjoy exploring and learning from these data science and machine learning notebooks!
